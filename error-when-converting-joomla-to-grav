@@ -1,0 +1,15 @@
+I have placed jm2grav directory in public_html.
+There is one joomla installation in the same place.
+Running jm2grav/markdown.php resulted in a list of my menus, nicely indented followed by
+
+Error: 0 - Call to undefined function mysql_connect()
+
+You may not be able to visit this page because of:
+
+an out-of-date bookmark/favourite
+a search engine that has an out-of-date listing for this site
+a mistyped address
+you have no access to this page
+The requested resource was not found.
+An error has occurred while processing your request.
+← Home Page
